@@ -16,5 +16,6 @@ count++;
 }
 ```
 
-GITTS pullow
-gitlkewvdvkfva'fmka'dkf
+Git push - для получения слияние
+Gir pull - отправление измененй в локалльный репозиторий
+clear
